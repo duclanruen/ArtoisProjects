@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- PROGRAMME=CASTEM/SORVTK   UTILISATEUR=Windows   DATE=27/01/2026   TITRE=exp-03.vtk -->
+<VTKFile type="Collection" version="0.1">
+    <Collection>
+        <DataSet part="0001" name="VBONES" file="exp-03.vtk.0001.vtu"/>
+    </Collection>
+</VTKFile>
